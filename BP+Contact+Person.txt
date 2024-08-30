@@ -1,0 +1,47 @@
+C10001	Steve Althardt	President	"5611 Summit Road York, PA 16689"				
+C10001	Melissa Meglen	CEO	"5611 Summit Road, York, PA 16689"				
+C10002	Chad Meholic	Sales Rep	"2357 Holly Wood Drive, Pittsburgh, PA 15689"	888-212-7200			
+C10002	Shannon Ballantyne	Manager	"2357 Holly Wood Drive, Pittsburgh, PA 15689"	888-212-7200			
+C10003	Dan Niemiec	OE Admin	Corporate Headquarters				
+C10003	Lindsay Bench	Admin	"1611 Summit Road, York, PA 16689"	814-212-8200		814-212-8210	
+C10004	Carl Peters	Sales Rep	609 Bear Rd	724-297-5120	724-498-6364		carl.peters@email.stvincent.edu
+C10004	Daniel Blaszkowski	Sales Rep	563 Middletown Road	724-446-3074	724-858-9171		daniel.blaszkowski@email.stvincent.edu
+C10005	Mallory Reese	President	"4611 Erie Road, Erie, PA 16639"				
+C10005	Marissa Brush	Vice President	"4611 Erie Road, Erie, PA 16639"				
+C10006	Luis Rodriguez	CEO					
+C10006	Shea Craig	COO					
+C10007	Alyssa Roffol	Manager	"5611 Summerridge Court, Beaver Springs, PA 16689"	888-206-8200		888-206-8210	
+C10007	Christine Deely	Manager	"5611 Summerridge Court, Beaver Springs, PA 16689"	888-206-8200		888-206-8210	
+C10008	Jessica Roland	CFO	"6543 Settlersridge Court, Beaver Town, PA 16699"				
+C10008	Ben Fecik	CEO	"6543 Settlersridge Court, Beaver Town, PA 16699"				
+C10009	Rich Sadlowski	Sales Rep	300 Fraser Purchase Rd.	810-345-7654	724-234-0976		rich.sadlowski@email.stvincent.edu
+C10009	Britani Frencho	President	8501 Single Tree Court	744-654-0981	724-700-5691		britani.frencho@email.stvincent.edu
+C10010	Emily Scott	President	"5761 Cupids Lane, Los Angeles, CA 19002"	866-452-2222		866-312-8810	
+C10010	Kayleen Garlicki	VP	"5761 Cupids Lane, Los Angeles, CA 19002"	866-452-2222		866-312-8810	
+C10011	Dan Hall	President					
+C10011	Mike Sowinski	Manager					
+C10012	Bradley Swierczyk	President					
+C10012	Brandon Kelly	Manager					
+C10013	Sean Knox	CEO	TMS International Headquarters	888-987-6540		888-456-9887	
+C10013	Katherine Torba	CFO	TMS International Headquarters	888-987-6540		888-456-9887	
+C10014	Megan Vargo	Sales Rep	OEC Computers				
+C10014	John Kowach	President	OEC Computers				
+C10015	Joe Submarine	Owner	"1234 Fraser Purchase Rd., Latrobe, PA  15650"	724-312-4200		724-312-4210	
+C10015	Lori Bollibon	Accountant	"1234 Fraser Purchase Rd., Latrobe, PA  15650"	724-312-4200		724-312-4210	
+C10016	Jim Ferri	Owner	"3913 Old Willam Penn Hwy, Murrysville, PA  15668"	724-268-1990			jferri@ferri.com
+C20000	Robert McCann	President	"8001 Corporate Drive, Export, PA  15632"	724-327-3020 		724-327-3021	
+C20000	Mark Lee	VP Operations	"8001 Corporate Drive, Export, PA  15632"	724-327-3020		724-327-3021	
+C23900	Jerry	Owner					
+C30000	Bob Markley	Owner					
+C30005	Dr. Linda Miller	Owner	"3741 William Penn Hwy, Murrysville, PA  15668"	724-327-2200		724-327-2221	miller@borderbrook.com
+C30009	Jerry	Owner					
+C30010	Alan Taylor	Owner	"2450 Old William Penn Hwy, Murrysville, PA  15668"	724-805-2100			Alan@ASAP.com
+C40000	Bob Markley	President	"5611 Summit Court, Export PA  15632"				
+C40001	George	Sales Rep	Hollywood Av	484-948-4840	484-489-4948	408-498-4843	george@earthshaker.com
+C40001	Brad	President	Hollywood Av			495-490-5909	brad@earthshker.com
+C40001	Marion	Controler	Hollywood Av			489-495-5555	marion@earthshaker.com
+C40002	Bees	CEO					
+C40003	Michael	Owner		867-484-4849			
+C50000	John Vincent	Owner	"124 Center Drive, Latrobe PA  15650"	724-805-7800			john.vincent@saintvincentmachine.com
+C50000	Jane Vincent	Owner	"124 Center Drive, Latrobe PA  15650"	724-805-7800			jane.vincent@saintvincentmachine.com
+C55000	Boniface Wimmer	Owner	"3457 Basilica Place, Latrobe PA  15640"	724-805-3500			

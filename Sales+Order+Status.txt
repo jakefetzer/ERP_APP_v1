@@ -1,0 +1,3 @@
+O	Open
+C	Closed
+H	Hold

@@ -1,0 +1,56 @@
+C10001	Ship-to	5611 Summit Road	York	PA	16689	US	PA
+C10001	Bill-to	2012 Low Pointe Circle	Rochester	NY	50045	US	
+C10002	Ship-to	2357 Holly Wood Drive	Pittsburgh	PA	15689	US	PA
+C10002	Bill-to	1934 Low Pointe Circle	Rochester	NY	50045	US	
+C10003	Ship-to	1611 Summit Road	York	PA	16689	US	PA
+C10003	Bill-to	1611 Summit Road	York	PA	16689	US	
+C10004	Ship-to	5611 Hollywood Drive	New Berlin	PA	17689	US	PA
+C10004	Bill-to	2012 Low Pointe Circle	Rochester	NY	50045	US	
+C10005	Ship-to	4611 Erie Road	Erie	PA	16639	US	PA
+C10005	Bill-to	2012 Low Pointe Circle	Rochester	NY	50045	US	
+C10006	Ship-to	2145 Rte 22	Murrysville	PA	15632	US	PA
+C10006	Bill-to	2145 Rte 22	Murrysville	PA	15632	US	
+C10007	Ship-to	2012 Low Pointe Circle	Rochester	NY	50045	US	NY
+C10007	Bill-to	5611 Summerridge Court	Beaver Springs	PA	16689	US	
+C10008	Ship-to	6543 Settlersridge Court	Beaver Town	PA	16699	US	PA
+C10008	Bill-to	6543 Settlersridge Court	Beaver Town	PA	16699	US	
+C10009	Ship-to	3756 Planters Hill Top	San Francisco	CA	68759	US	CA
+C10009	Bill-to	7567 Ranch Hill Road	New Brightsville	PA	14457	US	
+C10010	Ship-to	5761 Cupids Lane	Los Angeles	CA	19002	US	CA
+C10010	Bill-to	9948 Spreadriver Lake	San Francisco	CA	90002	US	
+C10011	Ship-to	702 Wheremy Road	Girlsat	PA	88976	US	PA
+C10011	Bill-to	8887 High Vineyard Square	Moon	PA	76543	US	
+C10012	Ship-to	5091 Fried Lane	Uniontown	PA	47568	US	PA
+C10012	Bill-to	987 Karma's Delight Dr.	Roots	PA	98765	US	
+C10013	Ship-to	9811 Unique Lane	Montana	NY	87654	US	NY
+C10013	Bill-to	90210 Easter Platts Rd	Chicago	IL	60603	US	
+C10014	Ship-to	4598 Torrance Road	Apple Blossom	PA	16589	US	PA
+C10014	Bill-to	4598 Torrance Road	Apple Blossom	PA	16589	US	
+C10015	Ship-to	1234 Fraser Purchase Rd	Latrobe	PA	15650	US	PA
+C10015	Bill-to	1234 Fraser Purchase Rd	Latrobe	PA	15650	US	
+C10016	Ship-to	3913 Old Willam Penn Hwy.	Murrysville	PA	15668	US	PA
+C10016	Bill-to	3913 Old Willam Penn Hwy.	Murrysville	PA	15668	US	
+C20000	Ship-to	8001 Corporate Drive	Export	PA	15632	US	PA
+C20000	Bill-to	8001 Corporate Drive	Export	PA	15632	US	
+C23900	Ship-to	908 Darby Rd	Havertown	PA	19083	US	PA
+C23900	Bill-to	908 Darby Rd	Havertown	PA	19083	US	
+C30000	Ship-to	2012 High Pointe Court	Murrysville	PA	15668	US	PA
+C30000	Bill-to	876 North Manor Street	Poughkeepsie	NY	12601	US	
+C30005	Ship-to	3741 William Penn Hwy	Murrysville	PA	15668	US	PA
+C30005	Bill-to	3741 William Penn Hwy	Murrysville	PA	15668	US	
+C30010	Ship-to	2450 Old William Penn Hwy	Murrysville	PA	15668	US	PA
+C30010	Bill-to	2450 Old William Penn Hwy	Murrysville	PA	15668	US	
+C40000	Ship-to	5611 Summit Court	Export	PA	15632	US	PA
+C40000	Bill-to	5611 Summit Court	Export	PA	15632	US	
+C40001	Bill-to	800 5th Avenue	New York	NY	10014	US	
+C40001	Ship-to	101 Main Street	Circleville	OH	43113	US	OH
+C40001	Ship-to	208 Hollywood Av	Los Gatos	CA	28399	US	CA
+C40001	Ship-to	4598 W Illinois Street	Chicago	IL	60601	US	IL
+C40002	Bill-to	South Street	Philadelphia	PA	19019	US	
+C40003	Ship-to	39 Gilmor LN	Fairfax	VA	20151	US	VA
+C40005	Ship-to	5987 West Plam Street	Fairfax	VA	20151	US	VA
+C50000	Bill-to	124 Center Drive	Latrobe	PA	15650	US	
+C50000	Ship-to	124 Center Drive	Latrobe	PA	15650	US	PA
+C50000	Ship-to	8023 Heaven Drive	Squareville	OH	42234	US	OH
+C55000	Bill-to	3457 Basilica Place	Latrobe	PA	15650	US	
+C55000	Ship-to	3457 Basilica Place	Latrobe	PA	15651	US	PA
